@@ -43,7 +43,11 @@ Some Linux systems require right-clicking the launcher and choosing **Run as Pro
 
 ## Support development
 
-If this tool helps you, consider supporting development through the Gumroad page where you found it.
+These apps are free/pay-what-you-want so people can actually use them.
+
+If this app helped you, a small tip helps me keep building and improving them.
+
+- Cash App: $jaydubgtfo
 
 ## Feedback
 
