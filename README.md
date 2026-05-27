@@ -3,6 +3,12 @@
 A simple Linux cleanup helper for people whose computer feels slow or cluttered.
 
 
+## Demo video
+
+Watch a short demo of this app:
+
+- YouTube Shorts: https://www.youtube.com/shorts/SyyVAy2e1hY
+
 ## Download
 
 Download the latest ZIP from the **Releases** section of this GitHub repository.
